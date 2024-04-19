@@ -8,9 +8,9 @@
 </div>
 
 <img src="a.gif">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonamari&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&show_icons=true&theme=transparent)
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent) |
+| -------  | ------- |
 
 <img src="a.gif">
 </div>
