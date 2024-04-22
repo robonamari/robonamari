@@ -8,9 +8,36 @@
 </div>
 
 <img src="Color_bar.gif">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robonamari&theme=transparent&hide_border=true&stroke=0000&background=0D1117"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true"/>
+  
+</div>
+
+
 
 <img src="Color_bar.gif">
+
+
+<div align="center">
+
+| 💻 Programming | 🔎 Other | 🧰 Using Tools |
+| ----------- | ----------- | ----------- |
+| ![programming](https://skillicons.dev/icons?i=py,html,css,js) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode)
+</div>
+
+
+<img src="Color_bar.gif">
+</div>
+
+<div align="center">
+
+[![My Discord Server](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
+
+[![Discord DM](https://discord.c99.nl/widget/theme-3/905561025829548113.png)](https://discordapp.com/users/905561025829548113)
+
 </div>
