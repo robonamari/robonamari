@@ -27,7 +27,7 @@
 
 | 💻 Programming | 🔎 Other | 🧰 Using Tools |
 | ----------- | ----------- | ----------- |
-| ![programming](https://skillicons.dev/icons?i=py,html,css,js) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode)
+| ![programming](https://skillicons.dev/icons?i=py,html,css,nodejs) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode,cloudflare,workers,windows)
 </div>
 
 
