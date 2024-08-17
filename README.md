@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="Coffee_duck.png" alt="اردک قهوه" width="27" height="27"/>, I'm robonamari</h1>
+<h1 align="center">Hi <img src="Emojis/Coffee_duck.png" alt="اردک قهوه" width="27" height="27"/>, I'm robonamari</h1>
 
 <div>
 <img src="Color_bar.gif">
