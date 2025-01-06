@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="Emojis/Coffee_duck.png" alt="اردک قهوه" width="27" height="27"/>, I'm robonamari</h1>
 
 <div>
-<img src="Color_bar.gif">
+<img src="gifs/Color_bar.gif">
 
 <div align="center">
-<img align="center" src="cabin.gif" alt="کلبه" width="419" height="325"/>
+<img align="center" src="gifs/cabin.gif" alt="کلبه" width="419" height="325"/>
 </div>
 
-<img src="Color_bar.gif">
+<img src="gifs/Color_bar.gif">
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 
 
-<img src="Color_bar.gif">
+<img src="gifs/Color_bar.gif">
 
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
 
 
-<img src="Color_bar.gif">
+<img src="gifs/Color_bar.gif">
 </div>
 
 <div align="center">
