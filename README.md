@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="emojis/knuckles_coffee.gif" alt="اردک قهوه" width="25" height="25"/>, I'm robonamari</h1>
+<h1 align="center">Hi <img src="content/emojis/knuckles_coffee.gif" alt="اردک قهوه" width="25" height="25"/>, I'm robonamari</h1>
 
 <div>
-<img src="gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif">
 
 <div align="center">
-<img align="center" src="gifs/cabin.gif" alt="کلبه" width="419" height="325"/>
+<img align="center" src="content/gifs/cabin.gif" alt="کلبه" width="419" height="325"/>
 </div>
 
-<img src="gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif">
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif">
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 | ![programming](https://skillicons.dev/icons?i=py,html,css,nodejs) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode,cloudflare,workers,windows)
 </div>
 
-<img src="gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif">
 </div>
 
 <div align="center">
