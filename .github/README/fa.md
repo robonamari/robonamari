@@ -1,4 +1,4 @@
-<h1 align="center">سلام <img src="../../content/emojis/knuckles_coffee.gif" width="25" height="25"/>, من هستم robonamari</h1>
+<h1 align="center">سلام <img src="../../content/emojis/knuckles_coffee.gif" width="25" height="25"/>, من robonamari هستم</h1>
 
 <div>
 <img src="content/gifs/Color_bar.gif">
