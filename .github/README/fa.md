@@ -1,15 +1,15 @@
 <h3 align="center">
-  Hi
+  سلام
   <img
     src="../../content/emojis/knuckles_coffee.gif"
-    alt="coffee knuckles emoji"
+    alt="ایموجی قهوه و ناکلز"
     width="25"
     height="25"
-  />, I'm robonamari
+  />, من robonamari هستم
 </h1>
 
 <div>
-<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
   <img
@@ -21,7 +21,7 @@
   />
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
 
@@ -31,23 +31,23 @@
 
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
 
-|                          💻 Programming                           |                             🔎 Other                              |                                           🧰 Using Tools                                            |
+|                          💻 برنامه نویسی                          |                              🔎 دیگر                              |                                       🧰 استفاده از ابزار های                                       |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![programming](https://skillicons.dev/icons?i=py,html,css,nodejs) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode,cloudflare,workers,windows) |
 
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
 </div>
 
 <div align="center">
 
-[![Discord DM](https://discord.c99.nl/widget/theme-3/905561025829548113.png)](https://discordapp.com/users/905561025829548113)
+[![دیسکورد DM](https://discord.c99.nl/widget/theme-3/905561025829548113.png)](https://discordapp.com/users/905561025829548113)
 
-[![My Discord Server](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
+[![سرور دیسکورد من](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
 
 </div>
