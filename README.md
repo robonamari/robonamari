@@ -1,15 +1,15 @@
-<h1 align="center">
+<h3 align="center">
   Hi
   <img
     src="content/emojis/knuckles_coffee.gif"
-    alt="اردک قهوه"
+    alt="coffee knuckles emoji"
     width="25"
     height="25"
   />, I'm robonamari
 </h1>
 
 <div>
-<img src="content/gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
   <img
@@ -21,7 +21,7 @@
   />
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
 </div>
 
 <div align="center">
