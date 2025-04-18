@@ -1,17 +1,27 @@
-<h1 align="center">
-  سلام
-  <img src="../../content/emojis/knuckles_coffee.gif" width="25" height="25" />,
-  من robonamari هستم
+<h3 align="center">
+  Hi
+  <img
+    src="../../content/emojis/knuckles_coffee.gif"
+    alt="coffee knuckles emoji"
+    width="25"
+    height="25"
+  />, I'm robonamari
 </h1>
 
 <div>
-<img src="content/gifs/Color_bar.gif">
+<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
-  <img align="center" src="content/gifs/cabin.gif" width="419" height="325" />
+  <img
+    align="center"
+    src="../../content/gifs/cabin.gif"
+    alt="کلبه"
+    width="419"
+    height="325"
+  />
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
 
@@ -21,17 +31,17 @@
 
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
 
 <div align="center">
 
-|                          💻 برنامه نویسی                          |                              🔎 سایر                              |                                        🧰 استفاده از ابزارها                                        |
+|                          💻 Programming                           |                             🔎 Other                              |                                           🧰 Using Tools                                            |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | ![programming](https://skillicons.dev/icons?i=py,html,css,nodejs) | ![other](https://skillicons.dev/icons?i=wordpress,sqlite,bots,md) | ![apps](https://skillicons.dev/icons?i=github,discord,powershell,vscode,cloudflare,workers,windows) |
 
 </div>
 
-<img src="content/gifs/Color_bar.gif">
+<img src="../../content/gifs/Color_bar.gif" alt="separator color bar" >
 </div>
 
 <div align="center">
