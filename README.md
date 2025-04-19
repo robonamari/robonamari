@@ -15,7 +15,7 @@
   <img
     align="center"
     src="content/gifs/cabin.gif"
-    alt="کلبه"
+    alt="center"
     width="419"
     height="325"
   />
