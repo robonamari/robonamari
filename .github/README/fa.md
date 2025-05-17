@@ -46,7 +46,7 @@
 
 <div align="center">
 
-[![دیسکورد DM](https://discord.c99.nl/widget/theme-3/905561025829548113.png)](https://discordapp.com/users/905561025829548113)
+[![دیسکورد DM](https://discord.c99.nl/widget/theme-3/891673434277445682.png)](https://discordapp.com/users/891673434277445682)
 
 [![سرور دیسکورد من](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
 
