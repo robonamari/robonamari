@@ -9,7 +9,7 @@
 </h1>
 
 <div>
-<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="content/gifs/color-bar.gif" alt="separator color bar">
 
 <div align="center">
   <img
@@ -21,7 +21,7 @@
   />
 </div>
 
-<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="content/gifs/Color_bar.gif" alt="separator color bar">
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-<img src="content/gifs/Color_bar.gif" alt="separator color bar" >
+<img src="content/gifs/color-bar.gif" alt="separator color bar" >
 
 <div align="center">
 
