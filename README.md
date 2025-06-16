@@ -1,7 +1,7 @@
 <h3 align="center">
   Hi
   <img
-    src="content/emojis/knuckles_coffee.gif"
+    src="content/emojis/knuckles-coffee.png"
     alt="coffee knuckles emoji"
     width="25"
     height="25"
