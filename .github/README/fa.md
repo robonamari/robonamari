@@ -1,7 +1,7 @@
 <h3 align="center">
   سلام
   <img
-    src="../../content/emojis/knuckles_coffee.gif"
+    src="../../content/emojis/knuckles-coffee.png"
     alt="ایموجی قهوه و ناکلز"
     width="25"
     height="25"
@@ -9,7 +9,7 @@
 </h1>
 
 <div>
-<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
+<img src="../../content/gifs/color-bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
   <img
@@ -21,7 +21,7 @@
   />
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
+<img src="../../content/gifs/color-bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
+<img src="../../content/gifs/color-bar.gif" alt="نوار رنگ جداکننده" >
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 </div>
 
-<img src="../../content/gifs/Color_bar.gif" alt="نوار رنگ جداکننده" >
+<img src="../../content/gifs/color-bar.gif" alt="نوار رنگ جداکننده" >
 </div>
 
 <div align="center">
