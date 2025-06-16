@@ -1,8 +1,8 @@
 <h3 align="center">
   Hi
   <img
-    src="content/emojis/knuckles-coffee.png"
-    alt="coffee knuckles emoji"
+    src="content/emojis/knuckles_coffee.png"
+    alt="knuckles coffee emoji"
     width="25"
     height="25"
   />, I'm robonamari
