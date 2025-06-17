@@ -1,7 +1,7 @@
 <h3 align="center">
   سلام
   <img
-    src="../../content/emojis/knuckles-coffee.png"
+    src="../../content/emojis/knuckles-coffee.webp"
     alt="ایموجی قهوه و ناکلز"
     width="25"
     height="25"
