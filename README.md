@@ -23,13 +23,10 @@
 
 <img src="content/gifs/color-bar.gif" alt="separator color bar">
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent">
-<img src="https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true">
-
-</div>
 
 <img src="content/gifs/color-bar.gif" alt="separator color bar" >
 
