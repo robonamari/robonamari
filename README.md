@@ -9,17 +9,9 @@
 </h1>
 
 ![separator color bar](content/gifs/color-bar.gif)
-<div align="center">
-  <img
-    align="center"
-    src="content/gifs/cabin.gif"
-    alt="center"
-    width="419"
-    height="325"
-  />
-</div>
+![center](content/gifs/cabin.gif)
 
-<img src="content/gifs/color-bar.gif" alt="separator color bar">
+![separator color bar](content/gifs/color-bar.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
