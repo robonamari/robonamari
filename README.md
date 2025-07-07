@@ -25,9 +25,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent" />
-<img src="https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent">
+<img src="https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true">
 
 </div>
 
