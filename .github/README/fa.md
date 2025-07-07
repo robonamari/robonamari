@@ -8,9 +8,9 @@
 
 ![نوار رنگی جداکننده](../../content/gifs/color-bar.gif)
 
-![آمار گیت هاب](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
+![آمار گیت‌هاب](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
 ![زبان‌های برتر](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
-![جایزه‌های گیت هاب](https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
+![جایزه‌های گیت‌هاب](https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
 
 ![نوار رنگی جداکننده](../../content/gifs/color-bar.gif)
 
