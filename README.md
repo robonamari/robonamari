@@ -4,7 +4,7 @@
 
 ![separator color bar](content/gifs/color-bar.gif)
 
-![center](content/gifs/cabin.gif)
+![cabin](content/gifs/cabin.gif)
 
 ![separator color bar](content/gifs/color-bar.gif)
 
