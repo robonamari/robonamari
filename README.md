@@ -8,9 +8,7 @@
   />, I'm robonamari
 </h1>
 
-<div>
-<img src="content/gifs/color-bar.gif" alt="separator color bar">
-
+![separator color bar](content/gifs/color-bar.gif)
 <div align="center">
   <img
     align="center"
@@ -28,8 +26,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
 
 
-<img src="content/gifs/color-bar.gif" alt="separator color bar" >
-
+![separator color bar](content/gifs/color-bar.gif)
 <div align="center">
 
 |                          💻 Programming                           |                             🔎 Other                              |                                           🧰 Using Tools                                            |
@@ -38,8 +35,7 @@
 
 </div>
 
-<img src="content/gifs/color-bar.gif" alt="separator color bar" >
-</div>
+![separator color bar](content/gifs/color-bar.gif)
 
 <div align="center">
 
