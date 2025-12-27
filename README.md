@@ -8,9 +8,9 @@
 
 ![separator color bar](assets/gifs/color-bar.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robonamari&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=robonamari&theme=transparent)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
+![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
 
 ![separator color bar](assets/gifs/color-bar.gif)
 
