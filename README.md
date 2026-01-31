@@ -1,5 +1,3 @@
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-
 ### Hi ![knuckles coffee emoji](assets/emojis/knuckles-coffee.webp), I'm robonamari
 
 ![separator color bar](assets/gifs/color-bar.gif)
