@@ -10,7 +10,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=robonamari&theme=transparent)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=robonamari&theme=transparent)
-![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
+![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=robonamari&theme=onedark&no-bg=true&no-frame=true)
 
 ![separator color bar](assets/gifs/ColorBar.gif)
 
@@ -22,6 +22,6 @@
 
 [![Discord DM](https://discord.c99.nl/widget/theme-3/891673434277445682.png)](https://discordapp.com/users/891673434277445682)
 
-[![My Discord Server](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/XEpFbnqrTq)
+[![My Discord Server](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/BsaC3QgEQz)
 
 </div>
