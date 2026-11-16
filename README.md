@@ -18,6 +18,6 @@
 
 ![separator color bar](assets/gifs/ColorBar.gif)
 
-[![Discord DM](https://discord.c99.nl/widget/theme-3/891673434277445682.png)](https://discordapp.com/users/891673434277445682)
+[![Discord status](https://statusbanner.com/banner/cyber-neon/891673434277445682.svg?compact=1)](https://discordapp.com/users/891673434277445682)
 
 [![My Discord Server](https://discord.com/api/guilds/1044595742259556373/widget.png?style=banner2)](https://discord.gg/BsaC3QgEQz)
